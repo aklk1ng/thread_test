@@ -1,0 +1,10 @@
+[workspace]
+members = [
+  "thread",
+  "channel",
+  "mutex",
+  "operator",
+  "macro_rules",
+  "MyStack",
+  "rs_test",
+]
