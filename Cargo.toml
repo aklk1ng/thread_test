@@ -1,10 +1,17 @@
 [workspace]
 members = [
-  "thread",
-  "channel",
+  'thread',
+  'channel',
   "mutex",
-  "operator",
-  "macro_rules",
-  "MyStack",
-  "rs_test",
+  'operator',
+  'macro_rules',
+  'MyStack',
+  'rs_test',
+  'course',
+  'rwlock',
+  'condvar',
+  'semaphore',
+  'atomic',
+  'send',
+  'sync',
 ]
